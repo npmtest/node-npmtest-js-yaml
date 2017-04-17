@@ -1,7 +1,7 @@
 # test coverage for  [js-yaml (v3.8.3)](https://github.com/nodeca/js-yaml)  [![npm package](https://img.shields.io/npm/v/npmtest-js-yaml.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-js-yaml) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-js-yaml.svg)](https://travis-ci.org/npmtest/node-npmtest-js-yaml)
 #### YAML 1.2 parser and serializer
 
-[![NPM](https://nodei.co/npm/js-yaml.png?downloads=true)](https://www.npmjs.com/package/js-yaml)
+[![NPM](https://nodei.co/npm/js-yaml.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/js-yaml)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-js-yaml/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-js-yaml/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-js-yaml/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-js-yaml/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-js-yaml/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-js-yaml/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-js-yaml/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-js-yaml/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-js-yaml/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-js-yaml/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-js-yaml%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-js-yaml/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-js-yaml/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-js-yaml/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-js-yaml/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-js-yaml%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-js-yaml/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-js-yaml/build/test-report.html](https://npmtest.github.io/node-npmtest-js-yaml/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-js-yaml/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-js-yaml/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-js-yaml/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-js-yaml/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-js-yaml/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-js-yaml/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-js-yaml/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Vladimir Zapparov",
-        "email": "dervus.grim@gmail.com"
+        "name": "Vladimir Zapparov"
     },
     "bin": {
         "js-yaml": "bin/js-yaml.js"
@@ -39,17 +44,14 @@
     "contributors": [
         {
             "name": "Aleksey V Zapparov",
-            "email": "ixti@member.fsf.org",
             "url": "http://www.ixti.net/"
         },
         {
             "name": "Vitaly Puzrin",
-            "email": "vitaly@rcdesign.ru",
             "url": "https://github.com/puzrin"
         },
         {
             "name": "Martin Grenfell",
-            "email": "martin.grenfell@gmail.com",
             "url": "http://got-ravings.blogspot.com"
         }
     ],
@@ -90,13 +92,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "vitaly",
-            "email": "vitaly@rcdesign.ru"
+            "name": "vitaly"
         }
     ],
     "name": "js-yaml",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/nodeca/js-yaml.git"
