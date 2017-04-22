@@ -1,4 +1,7 @@
-# test coverage for  [js-yaml (v3.8.3)](https://github.com/nodeca/js-yaml)  [![npm package](https://img.shields.io/npm/v/npmtest-js-yaml.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-js-yaml) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-js-yaml.svg)](https://travis-ci.org/npmtest/node-npmtest-js-yaml)
+# npmtest-js-yaml
+
+#### basic test coverage for  [js-yaml (v3.8.3)](https://github.com/nodeca/js-yaml)  [![npm package](https://img.shields.io/npm/v/npmtest-js-yaml.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-js-yaml) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-js-yaml.svg)](https://travis-ci.org/npmtest/node-npmtest-js-yaml)
+
 #### YAML 1.2 parser and serializer
 
 [![NPM](https://nodei.co/npm/js-yaml.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/js-yaml)
